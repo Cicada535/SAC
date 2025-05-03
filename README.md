@@ -23,6 +23,11 @@ SAC utilizes the following age groups:
 - 18+: Suitable only for adults.
 By using these categories, users can easily determine the suitability of content for their audience.
 
+# How to Launch a Project
+Open the SAC.html file in your browser.
+
+[![image]()]
+
 ## How to use SAC
 You can use SAC to: 
 - Evaluate content and assign it an appropriate age rating. 
