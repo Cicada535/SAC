@@ -24,9 +24,10 @@ SAC utilizes the following age groups:
 By using these categories, users can easily determine the suitability of content for their audience.
 
 # How to Launch a Project
-Open the SAC.html file in your browser.
+Open the [SAC.html](SAC/SAC/SAC.html) file in your browser.
 
-[![image]()]
+## Project Interface
+![image](SAC/Images/SAC.jpg)
 
 ## How to use SAC
 You can use SAC to: 
