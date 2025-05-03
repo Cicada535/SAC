@@ -1,6 +1,6 @@
 # Simple Age Classification (SAC)
 
-![image](SAC/Images/Logo.jpg) [![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![image](Images/Logo.jpg) [![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## About the Project
 Simple Age Classification (SAC) is an open-source age classification system designed to ensure transparency and accessibility in information about age restrictions for various types of content, such as games, videos, and movies. It is inspired by the PEGI system and offers clear criteria for determining the appropriate age range for different types of content.
@@ -27,7 +27,7 @@ By using these categories, users can easily determine the suitability of content
 Open the [SAC.html](SAC/SAC.html) file in your browser.
 
 ## Project Interface
-![image](SAC/Images/SAC.jpg)
+![image](Images/SAC.jpg)
 
 ## How to use SAC
 You can use SAC to: 
